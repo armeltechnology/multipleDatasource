@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "spring.engineer.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.engineer.datasource.url'"
+  },
+  {
+    "name": "spring.department.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.department.datasource.url'"
+  },
+  {
+    "name": "spring.engineer.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.engineer.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.engineer.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.engineer.datasource.username'"
+  },
+  {
+    "name": "spring.department.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.department.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.department.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.department.datasource.password'"
+  },
+  {
+    "name": "spring.department.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.department.datasource.username'"
+  },
+  {
+    "name": "spring.engineer.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.engineer.datasource.password'"
+  },
+  {
+    "name": "spring.engineer.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.engineer.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.department.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.department.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.engineer.jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.engineer.jpa.show-sql'"
+  },
+  {
+    "name": "spring.department.jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.department.jpa.show-sql'"
+  }
+]}
